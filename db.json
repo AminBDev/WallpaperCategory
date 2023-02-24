@@ -1,0 +1,59 @@
+{
+    "photos" :[
+      
+            {
+                "id" : 1,
+                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/gamer_wallpaper-1073.jpg"
+            },
+        
+      
+
+
+      
+            {
+                "id" : 2,
+                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/iceland_blue_sky_nature_wallpaper-1086.jpg"
+            },
+       
+
+
+
+     
+            {
+                "id" : 3,
+                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/tomb_raider_lara_croft-1053.jpg"
+            },
+     
+
+
+
+
+
+      
+            {
+                "id" : 4,
+                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/Car_Mobile_wallpaper-1091.jpg"
+            },
+
+
+              
+            {
+                "id" : 5,
+                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/lion_mobile_wallpaper-1063.jpg"
+            },
+
+
+
+
+            {
+                "id" : 6,
+                "imgurl" : "https://cdn.statusqueen.com/desktopwallpaper/thumbnail/kitten-Hd_4k_desktop_wallpaper_photos-530.jpg"
+            }
+
+                
+         
+
+
+
+    ]
+}
