@@ -3,16 +3,18 @@
       
             {
                 "id" : 1,
-                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/gamer_wallpaper-1073.jpg"
+                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/gamer_wallpaper-1073.jpg",
+                "description" : "Anime"
             },
         
       
-
+           
 
       
             {
                 "id" : 2,
-                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/iceland_blue_sky_nature_wallpaper-1086.jpg"
+                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/iceland_blue_sky_nature_wallpaper-1086.jpg",
+                "description" : "Nature"
             },
        
 
@@ -21,7 +23,8 @@
      
             {
                 "id" : 3,
-                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/tomb_raider_lara_croft-1053.jpg"
+                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/tomb_raider_lara_croft-1053.jpg",
+                "description" : "Game"
             },
      
 
@@ -32,14 +35,16 @@
       
             {
                 "id" : 4,
-                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/Car_Mobile_wallpaper-1091.jpg"
+                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/Car_Mobile_wallpaper-1091.jpg",
+                "description" : "Car"
             },
 
 
               
             {
                 "id" : 5,
-                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/lion_mobile_wallpaper-1063.jpg"
+                "imgurl" : "https://cdn.statusqueen.com/mobilewallpaper/thumbnail/lion_mobile_wallpaper-1063.jpg",
+                "description" : "Animal"
             },
 
 
@@ -47,7 +52,8 @@
 
             {
                 "id" : 6,
-                "imgurl" : "https://cdn.statusqueen.com/desktopwallpaper/thumbnail/kitten-Hd_4k_desktop_wallpaper_photos-530.jpg"
+                "imgurl" : "https://cdn.statusqueen.com/desktopwallpaper/thumbnail/kitten-Hd_4k_desktop_wallpaper_photos-530.jpg",
+                "description" : "Cute"
             }
 
                 
